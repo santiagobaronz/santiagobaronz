@@ -1,3 +1,5 @@
+<img src='https://i.imgur.com/phd3kIh.png' width='420px' align='right'/>
+
 <h1 align="left">Hi 👋, I'm Santiago Baron</h1>
 <h3 align="left">I am a systems software engineering student ready for new projects</h3>
 
