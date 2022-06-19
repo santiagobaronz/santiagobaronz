@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Santiago Baron</h1>
-<h3 align="center">I am a systems software engineering student ready for new projects</h3>
+<h1 align="left">Hi 👋, I'm Santiago Baron</h1>
+<h3 align="left">I am a systems software engineering student ready for new projects</h3>
 
 <hr>
 
