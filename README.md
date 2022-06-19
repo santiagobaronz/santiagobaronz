@@ -1,4 +1,4 @@
-<img src='https://i.imgur.com/phd3kIh.png' width='420px' align='right'/>
+<a href='https://www.linkedin.com/in/santiago-baron-zuleta-ba553a1b9/'><img tooltip="Linkedin" src='https://i.imgur.com/phd3kIh.png' width='400px' align='right'/></a>
 
 <h1 align="left">Hi 👋, I'm Santiago Baron</h1>
 <h3 align="left">I am a systems software engineering student ready for new projects</h3>
