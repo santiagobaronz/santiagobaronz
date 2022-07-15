@@ -5,7 +5,7 @@
 
 <hr>
 
-- 📚 I’m currently learning **React**
+- 📚 I’m currently learning **React**, **Java** and **Android Studio**
 
 - 💬 Ask me about **JavaScript, HTML5, CSS3**
 
