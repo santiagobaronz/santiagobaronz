@@ -7,7 +7,7 @@
 
 - 📚 I’m currently learning **Java** and **Flutter**
 
-- 💬 Ask me about **JavaScript, HTML5, CSS3**
+- 💬 Ask me about **JavaScript, Java and SQL**
 
 - 📫 How to reach me **santiagobazul@hotmail.com**
 
