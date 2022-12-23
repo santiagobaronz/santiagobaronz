@@ -5,7 +5,7 @@
 
 <hr>
 
-- 📚 I’m currently learning **Java** and **Flutter**
+- 📚 I’m currently learning **Java** and **Tailwind CSS**
 
 - 💬 Ask me about **JavaScript, Java and SQL**
 
