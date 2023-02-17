@@ -5,7 +5,7 @@
 
 <hr>
 
-- 📚 I’m currently learning **Tailwind CSS**
+- 📚 I’m currently learning **React**
 
 - 💬 Ask me about **JavaScript, Java and SQL**
 
