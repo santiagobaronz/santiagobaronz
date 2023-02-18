@@ -7,6 +7,8 @@
 
 - 📚 I’m currently learning **React**
 
+- 🖥 My portfolio website: <a href='https://santiagobaron.com/'>**santiagobaron.com**</a>
+
 - 💬 Ask me about **JavaScript, Java and SQL**
 
 - 📫 How to reach me **santiagobazul@hotmail.com**
