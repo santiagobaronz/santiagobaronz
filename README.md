@@ -31,4 +31,4 @@
   
 </p>
 
-![](https://komarev.com/ghpvc/?username=santiagobaronz&color=blue)
+![](https://komarev.com/ghpvc/?username=santiagobaronz&color=blue&style=for-the-badge)
