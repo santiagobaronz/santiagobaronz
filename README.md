@@ -14,7 +14,7 @@
 - 📫 How to reach me **santiagobazul@hotmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -27,8 +27,12 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <a href='https://es.stackoverflow.com/users/297099/santiago-baron-zuleta'><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
-  
-  
 </p>
 
 ![](https://komarev.com/ghpvc/?username=santiagobaronz&color=blue&style=for-the-badge)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=santiagobaronz&theme=dark&hide_border=true&border_radius=15)](https://git.io/streak-stats)
+
+
+
+
