@@ -5,8 +5,6 @@ I am a systems engineering student ready for new projects
 
 <hr>
 
-- 📚 I’m currently learning **Next.js**
-
 - 🖥 My portfolio website: <a href='https://santiagobaron.com/'>**santiagobaron.com**</a>
 
 - 💬 Ask me about **JavaScript, Java and SQL**
