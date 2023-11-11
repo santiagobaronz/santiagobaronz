@@ -7,7 +7,7 @@ I am a systems engineering student ready for new projects
 
 - 🖥 My portfolio website: <a href='https://santiagobaron.com/'>**santiagobaron.com**</a>
 
-- 💬 Ask me about **JavaScript, Java and SQL**
+- 💬 Ask me about **TypeScript, ReactJS/NextJS, Java and SQL**
 
 - 📫 How to reach me **santiagobazul@hotmail.com**
 
