@@ -5,8 +5,6 @@ I am a systems engineering student ready for new projects
 
 <hr>
 
-- 🖥 My portfolio website: <a href='https://santiagobaron.com/'>**santiagobaron.com**</a>
-
 - 💬 Ask me about **TypeScript, ReactJS/NextJS, Java and SQL**
 
 - 📫 How to reach me **santiagobazul@hotmail.com**
